@@ -8,3 +8,5 @@ Currently it show its status code, searches for the Server header, and more spec
 - Searches for the location heading for 3XX responses
 
 Why would anyone use it? ¯\\\_(ツ)\_/¯
+
+A product of a depressing evening.
